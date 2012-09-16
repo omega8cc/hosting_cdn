@@ -1,4 +1,4 @@
-name = CDN support
+name = Local CDN support
 description = Maintain cdn domains for sites.
 package = Hosting
 dependencies[] = hosting_site

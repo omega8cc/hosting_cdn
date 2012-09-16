@@ -9,7 +9,7 @@
  */
 function hosting_cdn_hosting_feature() {
   $features['cdn'] = array(
-    'title' => t('CDN support'),
+    'title' => t('Local CDN support'),
     'description' => t('Provide multiple domain names for sites cdn resources to be accessible by.'),
     'status' => HOSTING_FEATURE_DISABLED,
     'module' => 'hosting_cdn',
